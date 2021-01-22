@@ -1,6 +1,6 @@
 # Demo
 
-Some description!
+This.repo is for practicing different Git commands on.
 
 
 ## Subheader
